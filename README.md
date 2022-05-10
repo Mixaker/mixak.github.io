@@ -1,1 +1,1 @@
-# mixaker..github.io
+# mixaker.github.io
